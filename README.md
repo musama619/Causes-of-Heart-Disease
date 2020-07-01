@@ -4,7 +4,7 @@
 
 # Finding which attributes play vital role in heart disease
 
-### The target values were 1 and 0. 1 means the person had heart attack, 0 mean not a heart attack
+### The target values were 1 and 0. 1 means the person has heart disease, 0 mean person does not has a heart disease
 ### The whole data was in numerica form. So I replaced numerical values to understandable categories. E.g. 'Male':1, 'Female':0
 
 -Replacing numerical data with nominal and ordinal values helped in visualization of data more easily
