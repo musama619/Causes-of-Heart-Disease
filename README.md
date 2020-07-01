@@ -2,7 +2,7 @@
 
 ![mildHeartAttack-866257238-770x553-650x428](https://user-images.githubusercontent.com/34093998/86289351-fd131a00-bc04-11ea-99f9-3160252142ec.jpg)
 
-Finding which attributes play vital role in heart disease
+# Finding which attributes play vital role in heart disease
 
 ### The target values were 1 amd 0. 1 means the person had heart attack, 0 mean not a heart attack
 ### The whole data was in numerica form. So I replaced numerical values to understandable categories. E.g. 'Male':1, 'Female':0
@@ -12,7 +12,7 @@ Finding which attributes play vital role in heart disease
 -Built two models: Random Forest Classifier and Decision Tree Classifier
 -Random Forest Classifier performed better than Decision Tree Classifier
 
-From our analysis we can predict that the main causes of heart disease are:
+### From our analysis we can predict that the main causes of heart disease are:
 
 - Major Heart Vessels(0-3). 
 - The high chest pain
@@ -22,7 +22,7 @@ From our analysis we can predict that the main causes of heart disease are:
 - slop
 
 
-Data: 
+## Data: 
 - age: The person's age in years
 - sex: The person's sex (1 = male, 0 = female)
 - cp: The chest pain experienced (Value 1: typical angina, Value 2: atypical angina, Value 3: non-anginal pain, Value 4: asymptomatic)
