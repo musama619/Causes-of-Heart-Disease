@@ -1,4 +1,7 @@
 # Causes-of-Heart-Disease
+
+![mildHeartAttack-866257238-770x553-650x428](https://user-images.githubusercontent.com/34093998/86289351-fd131a00-bc04-11ea-99f9-3160252142ec.jpg)
+
 Finding which attributes play vital role in heart disease
 
 ### The target values were 1 amd 0. 1 means the person had heart attack, 0 mean not a heart attack
